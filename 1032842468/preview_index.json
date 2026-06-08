@@ -1,7 +1,7 @@
 {
   "qq_number": "3034597969",
   "group_number": "1032842468",
-  "updated_at": "2026-06-04T17:46:59+00:00",
+  "updated_at": "2026-06-08T23:05:24+00:00",
   "skins": [
     {
       "name": "Y土豆の亭声知解意",
@@ -14,6 +14,12 @@
       "file": "Y土豆の亭声知解意.bds",
       "thumb": "Y土豆の亭声知解意.bds_py_26_light_thumb.png",
       "full": "Y土豆の亭声知解意.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "Y土豆の以神之命审判罪恶",
+      "file": "以神之命审判罪恶.bdi",
+      "thumb": "以神之命审判罪恶.bdi_py_26_light_thumb.png",
+      "full": "以神之命审判罪恶.bdi_py_26_light_thumb.png"
     }
   ]
 }
