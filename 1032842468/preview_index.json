@@ -1,7 +1,7 @@
 {
   "qq_number": "3034597969",
   "group_number": "1032842468",
-  "updated_at": "2026-06-17T00:56:34+00:00",
+  "updated_at": "2026-06-17T01:42:05+00:00",
   "skins": [
     {
       "name": "Y土豆の亭声知解意",
@@ -62,6 +62,12 @@
       "file": "Y土豆の小食玩记闷.bds",
       "thumb": "Y土豆の小食玩记闷.bds_py_26_light_thumb.png",
       "full": "Y土豆の小食玩记闷.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "Y土豆の小食玩记闷",
+      "file": "Y土豆の小食玩记闷.bdi",
+      "thumb": "Y土豆の小食玩记闷.bdi_py_26_light_thumb.png",
+      "full": "Y土豆の小食玩记闷.bdi_py_26_light_thumb.png"
     }
   ]
 }
