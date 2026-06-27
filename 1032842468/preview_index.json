@@ -1,7 +1,7 @@
 {
   "qq_number": "3034597969",
   "group_number": "1032842468",
-  "updated_at": "2026-06-24T00:38:47+00:00",
+  "updated_at": "2026-06-27T12:31:19+00:00",
   "skins": [
     {
       "name": "Y土豆の亭声知解意",
@@ -128,6 +128,12 @@
       "file": "蛋挞的福利小猪.bdi",
       "thumb": "蛋挞的福利小猪.bdi_py_26_light_thumb.png",
       "full": "蛋挞的福利小猪.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "镜鎏蝶梦",
+      "file": "Y土豆の镜鎏蝶梦.bds",
+      "thumb": "Y土豆の镜鎏蝶梦.bds_py_26_light_thumb.png",
+      "full": "Y土豆の镜鎏蝶梦.bds_py_26_light_thumb.png"
     }
   ]
 }
