@@ -1,7 +1,7 @@
 {
   "qq_number": "3034597969",
   "group_number": "1032842468",
-  "updated_at": "2026-06-27T12:31:19+00:00",
+  "updated_at": "2026-07-08T16:41:38+00:00",
   "skins": [
     {
       "name": "Y土豆の亭声知解意",
@@ -134,6 +134,12 @@
       "file": "Y土豆の镜鎏蝶梦.bds",
       "thumb": "Y土豆の镜鎏蝶梦.bds_py_26_light_thumb.png",
       "full": "Y土豆の镜鎏蝶梦.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "痛み蚀骨",
+      "file": "Y土豆の痛み蚀骨.bdi",
+      "thumb": "Y土豆の痛み蚀骨.bdi_py_26_light_thumb.png",
+      "full": "Y土豆の痛み蚀骨.bdi_py_26_light_thumb.png"
     }
   ]
 }
