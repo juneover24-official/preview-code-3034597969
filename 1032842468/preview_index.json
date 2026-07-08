@@ -1,7 +1,7 @@
 {
   "qq_number": "3034597969",
   "group_number": "1032842468",
-  "updated_at": "2026-07-08T16:41:46+00:00",
+  "updated_at": "2026-07-08T17:17:57+00:00",
   "skins": [
     {
       "name": "Y土豆の亭声知解意",
@@ -32,12 +32,6 @@
       "file": "小房子避风港.bdi",
       "thumb": "小房子避风港.bdi_py_26_light_thumb.png",
       "full": "小房子避风港.bdi_py_26_light_thumb.png"
-    },
-    {
-      "name": "小房子｜避风港",
-      "file": "Y土豆小房子避风港.bds",
-      "thumb": "Y土豆小房子避风港.bds_py_26_light_thumb.png",
-      "full": "Y土豆小房子避风港.bds_py_26_light_thumb.png"
     },
     {
       "name": "Y土豆の手绘猫咪",
@@ -146,6 +140,12 @@
       "file": "Y土豆の痛み蚀骨.bds",
       "thumb": "Y土豆の痛み蚀骨.bds_py_26_light_thumb.png",
       "full": "Y土豆の痛み蚀骨.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "小房子｜避风港",
+      "file": "Y土豆小房子避风港.bds",
+      "thumb": "Y土豆小房子避风港.bds_py_26_light_thumb.png",
+      "full": "Y土豆小房子避风港.bds_py_26_light_thumb.png"
     }
   ]
 }
