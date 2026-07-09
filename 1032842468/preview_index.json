@@ -1,7 +1,7 @@
 {
   "qq_number": "3034597969",
   "group_number": "1032842468",
-  "updated_at": "2026-07-09T15:43:50+00:00",
+  "updated_at": "2026-07-09T15:44:21+00:00",
   "skins": [
     {
       "name": "Y土豆の亭声知解意",
@@ -164,6 +164,12 @@
       "file": "极致仿ios抹茶.bdi",
       "thumb": "极致仿ios抹茶.bdi_py_26_light_thumb.png",
       "full": "极致仿ios抹茶.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "底包",
+      "file": "极致仿ios蓝莓.bdi",
+      "thumb": "极致仿ios蓝莓.bdi_py_26_light_thumb.png",
+      "full": "极致仿ios蓝莓.bdi_py_26_light_thumb.png"
     }
   ]
 }
