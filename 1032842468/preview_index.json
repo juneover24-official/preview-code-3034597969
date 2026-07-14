@@ -1,7 +1,7 @@
 {
   "qq_number": "3034597969",
   "group_number": "1032842468",
-  "updated_at": "2026-07-11T13:06:38+00:00",
+  "updated_at": "2026-07-14T16:24:44+00:00",
   "skins": [
     {
       "name": "Y土豆の亭声知解意",
@@ -188,6 +188,12 @@
       "file": "水色の梦.bds",
       "thumb": "水色の梦.bds_py_26_light_thumb.png",
       "full": "水色の梦.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "名字不建议加多余的符号",
+      "file": "Y土豆のCat无背景.bdi",
+      "thumb": "Y土豆のCat无背景.bdi_py_26_light_thumb.png",
+      "full": "Y土豆のCat无背景.bdi_py_26_light_thumb.png"
     }
   ]
 }
