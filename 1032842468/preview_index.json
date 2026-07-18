@@ -1,7 +1,7 @@
 {
   "qq_number": "3034597969",
   "group_number": "1032842468",
-  "updated_at": "2026-07-14T16:26:12+00:00",
+  "updated_at": "2026-07-18T15:35:55+00:00",
   "skins": [
     {
       "name": "Y土豆の亭声知解意",
@@ -200,6 +200,12 @@
       "file": "Y土豆小房子避风港.bdi",
       "thumb": "Y土豆小房子避风港.bdi_py_26_light_thumb.png",
       "full": "Y土豆小房子避风港.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "名字不建议加多余的符号",
+      "file": "Y土豆のCat2无背景.bds",
+      "thumb": "Y土豆のCat2无背景.bds_py_26_light_thumb.png",
+      "full": "Y土豆のCat2无背景.bds_py_26_light_thumb.png"
     }
   ]
 }
