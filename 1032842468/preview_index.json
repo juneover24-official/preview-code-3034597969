@@ -1,7 +1,7 @@
 {
   "qq_number": "3034597969",
   "group_number": "1032842468",
-  "updated_at": "2026-07-18T16:03:32+00:00",
+  "updated_at": "2026-07-18T16:04:49+00:00",
   "skins": [
     {
       "name": "Y土豆の亭声知解意",
@@ -236,6 +236,12 @@
       "file": "Y土豆の涩谷拼贴boy.bds",
       "thumb": "Y土豆の涩谷拼贴boy.bds_py_26_light_thumb.png",
       "full": "Y土豆の涩谷拼贴boy.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "小房子｜避风港",
+      "file": "小房子避风港.bds",
+      "thumb": "小房子避风港.bds_py_26_light_thumb.png",
+      "full": "小房子避风港.bds_py_26_light_thumb.png"
     }
   ]
 }
