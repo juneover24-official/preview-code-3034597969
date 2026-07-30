@@ -1,7 +1,7 @@
 {
   "qq_number": "3034597969",
   "group_number": "1032842468",
-  "updated_at": "2026-07-30T09:51:29+00:00",
+  "updated_at": "2026-07-30T09:53:14+00:00",
   "skins": [
     {
       "name": "Y土豆の亭声知解意",
@@ -290,6 +290,12 @@
       "file": "Y土豆の无它女孩二.bds",
       "thumb": "Y土豆の无它女孩二.bds_py_26_light_thumb.png",
       "full": "Y土豆の无它女孩二.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "无它，女孩",
+      "file": "Y土豆の无它女孩.bdi",
+      "thumb": "Y土豆の无它女孩.bdi_py_26_light_thumb.png",
+      "full": "Y土豆の无它女孩.bdi_py_26_light_thumb.png"
     }
   ]
 }
