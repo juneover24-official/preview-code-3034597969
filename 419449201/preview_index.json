@@ -1,7 +1,7 @@
 {
   "qq_number": "3034597969",
   "group_number": "419449201",
-  "updated_at": "2026-09-21T08:46:48+00:00",
+  "updated_at": "2026-09-21T08:47:30+00:00",
   "skins": [
     {
       "name": "香菇肉片底包",
@@ -23,6 +23,13 @@
       "thumb": "Y土豆の小耳朵混色1.bds_py_26_light_thumb.png",
       "full": "Y土豆の小耳朵混色1.bds_py_26_light_thumb.png",
       "file_id": "9e2ff78aaed3dabeff74bfb2512460ce"
+    },
+    {
+      "name": "香菇肉片底包",
+      "file": "Y土豆の小耳朵混色2.bdi",
+      "thumb": "Y土豆の小耳朵混色2.bdi_py_26_light_thumb.png",
+      "full": "Y土豆の小耳朵混色2.bdi_py_26_light_thumb.png",
+      "file_id": "22bfcb21b9b4c509f0488b337defc8a8"
     }
   ]
 }
