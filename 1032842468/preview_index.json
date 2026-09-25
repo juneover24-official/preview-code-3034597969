@@ -1,7 +1,7 @@
 {
   "qq_number": "3034597969",
   "group_number": "1032842468",
-  "updated_at": "2026-09-25T15:15:23+00:00",
+  "updated_at": "2026-09-25T15:16:08+00:00",
   "skins": [
     {
       "name": "Y土豆の亭声知解意",
@@ -331,6 +331,13 @@
       "thumb": "Lynn豆の变成人咪的小猫闷.bdi_py_26_light_thumb.png",
       "full": "Lynn豆の变成人咪的小猫闷.bdi_py_26_light_thumb.png",
       "file_id": "4cfe5f470cb1f5f9d34dd8ee6ac8dca3"
+    },
+    {
+      "name": "变成人咪的小猫",
+      "file": "Lynn豆の变成人咪的小猫闷.bds",
+      "thumb": "Lynn豆の变成人咪的小猫闷.bds_py_26_light_thumb.png",
+      "full": "Lynn豆の变成人咪的小猫闷.bds_py_26_light_thumb.png",
+      "file_id": "6961c90c1f0583dd232012d3951afc66"
     }
   ]
 }
