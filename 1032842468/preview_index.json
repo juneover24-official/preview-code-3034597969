@@ -1,7 +1,7 @@
 {
   "qq_number": "3034597969",
   "group_number": "1032842468",
-  "updated_at": "2026-11-01T13:05:51+00:00",
+  "updated_at": "2026-11-01T13:07:25+00:00",
   "skins": [
     {
       "name": "Y土豆の亭声知解意",
@@ -359,6 +359,13 @@
       "thumb": "Lynn豆の萌萌小鼻嘎闷.bds_py_26_light_thumb.png",
       "full": "Lynn豆の萌萌小鼻嘎闷.bds_py_26_light_thumb.png",
       "file_id": "19aabceb717dd99db41d927cb20b60c1"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "Lynn豆の萌萌小鼻嘎脆.bds",
+      "thumb": "Lynn豆の萌萌小鼻嘎脆.bds_py_26_light_thumb.png",
+      "full": "Lynn豆の萌萌小鼻嘎脆.bds_py_26_light_thumb.png",
+      "file_id": "021357f47e3cf8057cde73d35c941ec2"
     }
   ]
 }
