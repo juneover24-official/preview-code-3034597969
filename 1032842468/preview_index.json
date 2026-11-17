@@ -1,7 +1,7 @@
 {
   "qq_number": "3034597969",
   "group_number": "1032842468",
-  "updated_at": "2026-11-17T06:16:12+00:00",
+  "updated_at": "2026-11-17T06:16:51+00:00",
   "skins": [
     {
       "name": "Y土豆の亭声知解意",
@@ -478,6 +478,13 @@
       "thumb": "Y土豆の抽象涂鸦.bds_py_26_light_thumb.png",
       "full": "Y土豆の抽象涂鸦.bds_py_26_light_thumb.png",
       "file_id": "c389521df4d6cf24b8c9126c848999a8"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "Y土豆の抽象涂鸦.bdi",
+      "thumb": "Y土豆の抽象涂鸦.bdi_py_26_light_thumb.png",
+      "full": "Y土豆の抽象涂鸦.bdi_py_26_light_thumb.png",
+      "file_id": "8cb52ac742ae5e325e9f2be4100badd5"
     }
   ]
 }
