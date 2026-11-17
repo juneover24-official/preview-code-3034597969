@@ -1,7 +1,7 @@
 {
   "qq_number": "3034597969",
   "group_number": "1032842468",
-  "updated_at": "2026-11-17T05:46:19+00:00",
+  "updated_at": "2026-11-17T05:46:58+00:00",
   "skins": [
     {
       "name": "Y土豆の亭声知解意",
@@ -415,6 +415,13 @@
       "thumb": "Y土豆の金雀梅背景二.bdi_py_26_light_thumb.png",
       "full": "Y土豆の金雀梅背景二.bdi_py_26_light_thumb.png",
       "file_id": "6bb301329e0c05c53fd694d57a50a6da"
+    },
+    {
+      "name": "金雀梅",
+      "file": "Y土豆の金雀梅.bds",
+      "thumb": "Y土豆の金雀梅.bds_py_26_light_thumb.png",
+      "full": "Y土豆の金雀梅.bds_py_26_light_thumb.png",
+      "file_id": "5cf0ad6c0be42a0e5330ab6d6fd86500"
     }
   ]
 }
