@@ -1,7 +1,7 @@
 {
   "qq_number": "3034597969",
   "group_number": "1032842468",
-  "updated_at": "2026-11-17T05:30:12+00:00",
+  "updated_at": "2026-11-17T05:34:26+00:00",
   "skins": [
     {
       "name": "Y土豆の亭声知解意",
@@ -387,6 +387,13 @@
       "thumb": "Lynnの知豆泥萌萌嘟2.bds_py_26_light_thumb.png",
       "full": "Lynnの知豆泥萌萌嘟2.bds_py_26_light_thumb.png",
       "file_id": "bf77f3fd6bbda7bf6c91bc5ea12e6972"
+    },
+    {
+      "name": "知豆泥萌萌嘟",
+      "file": "Lynnの知豆泥萌萌嘟.bds",
+      "thumb": "Lynnの知豆泥萌萌嘟.bds_py_26_light_thumb.png",
+      "full": "Lynnの知豆泥萌萌嘟.bds_py_26_light_thumb.png",
+      "file_id": "21b986e654f0a6cfde2829db20f2d458"
     }
   ]
 }
