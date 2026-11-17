@@ -1,7 +1,7 @@
 {
   "qq_number": "3034597969",
   "group_number": "1032842468",
-  "updated_at": "2026-11-17T06:09:20+00:00",
+  "updated_at": "2026-11-17T06:10:17+00:00",
   "skins": [
     {
       "name": "Y土豆の亭声知解意",
@@ -457,6 +457,13 @@
       "thumb": "Y土豆のDuskBlush.bds_py_26_light_thumb.png",
       "full": "Y土豆のDuskBlush.bds_py_26_light_thumb.png",
       "file_id": "8f8d05853a9c5d509ecc0ae1464f9210"
+    },
+    {
+      "name": "DuskBlush",
+      "file": "Y土豆のDuskBlush-无背景.bdi",
+      "thumb": "Y土豆のDuskBlush-无背景.bdi_py_26_light_thumb.png",
+      "full": "Y土豆のDuskBlush-无背景.bdi_py_26_light_thumb.png",
+      "file_id": "f2bf8ac07bfbebd9d3da8903ed648483"
     }
   ]
 }
