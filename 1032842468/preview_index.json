@@ -1,7 +1,7 @@
 {
   "qq_number": "3034597969",
   "group_number": "1032842468",
-  "updated_at": "2026-11-17T05:51:29+00:00",
+  "updated_at": "2026-11-17T06:05:18+00:00",
   "skins": [
     {
       "name": "Y土豆の亭声知解意",
@@ -436,6 +436,13 @@
       "thumb": "Y土豆の金雀梅.bdi_py_26_light_thumb.png",
       "full": "Y土豆の金雀梅.bdi_py_26_light_thumb.png",
       "file_id": "b090a5d34cec49315a4e6b1c9fb7a824"
+    },
+    {
+      "name": "香菇肉片底包",
+      "file": "Y土豆の序列27.bdi",
+      "thumb": "Y土豆の序列27.bdi_py_26_light_thumb.png",
+      "full": "Y土豆の序列27.bdi_py_26_light_thumb.png",
+      "file_id": "a6840ce90f53ea8cc58718ce78a530e3"
     }
   ]
 }
